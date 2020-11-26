@@ -1,14 +1,27 @@
 .button {
     display: table;
     margin: 0 auto;
+    position: floating;
     border-radius: 4px;
     margin-top: 27px;
 }
 .title {
 
-    letter-spacing: 2px;
-    width: 280px;
-    height: 50px;
+    font-size: 70px;
+    font: outline;
+    initial-letter-align: center;
+    width: 700px;
+    height: 70px;
     display: block;
     border-radius: 4px;
+}
+.register{
+    margin-top:60px;
+}
+.forgot {
+
+    width: 60px;
+    height: 60px;
+  
+  
 }
